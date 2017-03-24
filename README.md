@@ -1,0 +1,2 @@
+# mombie
+Introduktion til github
